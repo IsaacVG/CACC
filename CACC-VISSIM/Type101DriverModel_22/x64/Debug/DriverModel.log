@@ -1,0 +1,6 @@
+﻿  DriverModel.cpp
+c:\users\ig\documents\projects\research_drivermodel\cacc\cacc\cacc-vissim\type101drivermodel_22\drivermodel.cpp(428): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\ig\documents\projects\research_drivermodel\cacc\cacc\cacc-vissim\type101drivermodel_22\drivermodel.cpp(441): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(475): note: see declaration of 'ctime'
+     Creating library C:\Users\ig\Documents\Projects\Research_DriverModel\CACC\CACC\CACC-VISSIM\Type101DriverModel_22\Lib\Debug\DriverModel.lib and object C:\Users\ig\Documents\Projects\Research_DriverModel\CACC\CACC\CACC-VISSIM\Type101DriverModel_22\Lib\Debug\DriverModel.exp
+  DriverModel.vcxproj -> C:\Users\ig\Documents\Projects\Research_DriverModel\CACC\CACC\CACC-VISSIM\Type101DriverModel_22\x64\Debug\DriverModel.dll
