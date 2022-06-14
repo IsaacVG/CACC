@@ -371,9 +371,9 @@ DRIVERMODEL_API  int  DriverModelGetValue (int    type,
       *int_value = vehicle_color;
       return 1;
     case DRIVER_DATA_VEH_UDA :
-      return 0; /* doesn't set any UDA values */
+      return 1; /* doesn't set any UDA values */
     case DRIVER_DATA_WANTS_SUGGESTION :
-      *int_value = 0;
+      *int_value = 1;
       return 1;
     case DRIVER_DATA_DESIRED_ACCELERATION :
       *double_value = desired_acceleration;
@@ -391,7 +391,7 @@ DRIVERMODEL_API  int  DriverModelGetValue (int    type,
       *int_value = 0;
       return 1;
     case DRIVER_DATA_USE_INTERNAL_MODEL:
-      *int_value = 1; /* must be set to 0 if external model is to be applied */
+      *int_value = 0; /* must be set to 0 if external model is to be applied */
       return 1;
     case DRIVER_DATA_WANTS_ALL_NVEHS:
       *int_value = 0; /* must be set to 1 if data for more than 2 nearby vehicles per lane and upstream/downstream is to be passed from Vissim */
