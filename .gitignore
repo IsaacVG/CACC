@@ -27,18 +27,22 @@ CACC-VISSIM/i-66_wb_dedicatedcacclane_2_V22_Test.layx
 CACC-VISSIM/i-66_wb_dedicatedcacclane_2_V22_Test104.inpx
 CACC-VISSIM/i-66_wb_dedicatedcacclane_2_V22_Test104.layx
 
-/CACC-VISSIM/Type101DriverModel_22/.vs/
+CACC-VISSIM/Type101DriverModel_22/.vs/
 CACC-VISSIM/Type101DriverModel_22/Temp/
 CACC-VISSIM/Type101DriverModel_22/x64/Debug/DriverModel.ilk
 CACC-VISSIM/Type101DriverModel_22/x64/Debug/DriverModel.log
-CACC-VISSIM/Type101DriverModel_22/x64/Debug/DriverModel.tlog/DriverModel.write.1u.tlog
-CACC-VISSIM/Type101DriverModel_22/x64/Debug/DriverModel.tlog/link.read.1.tlog
-CACC-VISSIM/Type101DriverModel_22/x64/Debug/DriverModel.tlog/link.write.1.tlog
+CACC-VISSIM/Type101DriverModel_22/x64/Debug/DriverModel.tlog/
 
-CACC-VISSIM/Type104DriverModel_22/DriverModel.cpp
+CACC-VISSIM/Type104DriverModel_22/.vs/
 CACC-VISSIM/Type104DriverModel_22/Temp/
 CACC-VISSIM/Type104DriverModel_22/x64/Debug/DriverModel.ilk
 CACC-VISSIM/Type104DriverModel_22/x64/Debug/DriverModel.log
-CACC-VISSIM/Type104DriverModel_22/x64/Debug/DriverModel.tlog/DriverModel.write.1u.tlog
-CACC-VISSIM/Type104DriverModel_22/x64/Debug/DriverModel.tlog/link.read.1.tlog
-CACC-VISSIM/Type104DriverModel_22/x64/Debug/DriverModel.tlog/link.write.1.tlog
+CACC-VISSIM/Type104DriverModel_22/x64/Debug/DriverModel.tlog/
+
+CACC-VISSIM/Type101DriverModel_22/x64/Release/DriverModel.ilk
+CACC-VISSIM/Type101DriverModel_22/x64/Release/DriverModel.log
+CACC-VISSIM/Type101DriverModel_22/x64/Release/DriverModel.tlog/
+
+CACC-VISSIM/Type104DriverModel_22/x64/Release/DriverModel.ilk
+CACC-VISSIM/Type104DriverModel_22/x64/Release/DriverModel.log
+CACC-VISSIM/Type104DriverModel_22/x64/Release/DriverModel.tlog/
